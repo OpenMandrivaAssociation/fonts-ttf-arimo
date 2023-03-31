@@ -1,6 +1,6 @@
 Name:		fonts-ttf-arimo
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Arimo ttf fonts
 License:	Apache License v2.00
 Group:		System/Fonts/True type
